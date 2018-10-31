@@ -1,7 +1,8 @@
+
 public class MainStackDouble {
 
 	public static void main(String[] args) {
-		stackDouble sd = new stackDouble();
+		StackDouble sd = new StackDouble();
 		sd.cetak();
 		
 		sd.push(1.24d);
