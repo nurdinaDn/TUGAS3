@@ -1,6 +1,6 @@
 public class MainStackString {
 	public static void main(String[]args) {
-		stackString ss = new stackString();
+		StackString ss = new StackString();
 		ss.cetak();
 		
 		ss.push("NURDINA");
@@ -29,3 +29,5 @@ public class MainStackString {
 		ss.cetak();
 		
 	}
+
+}
