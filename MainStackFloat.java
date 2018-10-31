@@ -1,7 +1,7 @@
 public class MainStackFloat {
 
 	public static void main(String[] args) {
-		stackFloat sf = new stackFloat();
+		StackFloat sf = new StackFloat();
 		sf.cetak();
 		
 		sf.push(1.24f);
